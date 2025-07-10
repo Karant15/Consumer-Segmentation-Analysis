@@ -1,7 +1,7 @@
 # Consumer-Segmentation-Analysis
 
 Overview:
-This project, completed for AXANTEUS—a market research agency—focuses on segmenting consumers based on purchase behavior and promotional responsiveness. Using a dataset of 600 consumer profiles, I applied clustering and predictive modeling techniques to understand brand loyalty, identify value-conscious consumers, and optimize promotional targeting.
+This project, completed for AXANTEUS, a market research agency, focuses on segmenting consumers based on purchase behavior and promotional responsiveness. Using a dataset of 600 consumer profiles, I applied clustering and predictive modeling techniques to understand brand loyalty, identify value-conscious consumers, and optimize promotional targeting.
 
 Objectives:
 
@@ -25,7 +25,7 @@ K-Means Clustering: Used to identify behavioral and promotional segments using p
 
 Predictive Modeling: Built Random Forest and Logistic Regression models to classify value-conscious consumers and predict brand loyalty (brand runs).
 
-Feature Importance: Identified key predictors like affluence index, number of transactions, and brand-specific volume shares influencing purchase decisions.
+Feature Importance: Identified key predictors like the affluence index, the number of transactions, and brand-specific volume shares influencing purchase decisions.
 
 Outcomes:
 
@@ -37,8 +37,8 @@ Provided actionable insights to help AXANTEUS clients design cost-effective prom
 
 Deliverables:
 
-📄 Comprehensive Project Report
+Comprehensive Project Report
 
-💻 Well-Commented R Code for cleaning, clustering, and modeling
+Well-Commented R Code for cleaning, clustering, and modeling
 
 Understanding nuanced consumer behavior helps businesses improve ROI on marketing spend, design better campaigns, and boost retention. This project bridges demographic and behavioral data to support strategic decision-making.
